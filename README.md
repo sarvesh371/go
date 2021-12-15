@@ -12,7 +12,7 @@ Quiz game developed using goLang
 2. Go inside the project directory `cd go`
 3. For executing the code or to play quiz game run `go run sample.go`
 
-**Rules to play Quiz**
+**Rule to play Quiz**
 
-1. You can only play quiz if you age is >= 10
+1. You can only play quiz if your age is >= 10
 
